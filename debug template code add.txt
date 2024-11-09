@@ -1,0 +1,7 @@
+debug template code add:
+#ifndef ONLINE_JUDGE
+#include "template.cpp"
+#else
+#define debug(...)
+#define debugArr(...)
+#endif
